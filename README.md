@@ -18,4 +18,4 @@ Focal Loss - [Focal Loss for Dense Object Detection, ICCV 2017 best student pape
 
 Gradient-based Loss (1): GHM Loss - [Gradient Harmonized Single-stage Detector, AAAI 2019 oral](https://arxiv.org/abs/1811.05181)
 
-Gradient-based Loss (2): Ratio Loss - [Towards Class Imbalance in Federated Learning, Arxiv 2020](https://arxiv.org/abs/2008.06217)
+Gradient-based Loss (2): Ratio Loss - [Addressing Class Imbalance in Federated Learning, AAAI 2021](https://arxiv.org/abs/2008.06217)
